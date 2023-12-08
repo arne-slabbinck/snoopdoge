@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/snoopdoge/static/css/main.0a333b9c.css",
+    "main.js": "/snoopdoge/static/js/main.006a7e86.js",
+    "static/js/787.ade4cc30.chunk.js": "/snoopdoge/static/js/787.ade4cc30.chunk.js",
+    "index.html": "/snoopdoge/index.html",
+    "main.0a333b9c.css.map": "/snoopdoge/static/css/main.0a333b9c.css.map",
+    "main.006a7e86.js.map": "/snoopdoge/static/js/main.006a7e86.js.map",
+    "787.ade4cc30.chunk.js.map": "/snoopdoge/static/js/787.ade4cc30.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a333b9c.css",
+    "static/js/main.006a7e86.js"
+  ]
+}
